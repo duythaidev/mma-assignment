@@ -1,4 +1,5 @@
 {
+  "name": "bonusassignment",
   "license": "0BSD",
   "main": "index.js",
   "scripts": {
