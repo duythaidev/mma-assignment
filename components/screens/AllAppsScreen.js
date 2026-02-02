@@ -268,10 +268,7 @@ export default function AllAppsScreen() {
         </TouchableOpacity>
       </View>
 
-      <ScrollView
-        style={styles.scrollView}
-        showsVerticalScrollIndicator={false}
-      >
+      <ScrollView style={styles.scrollView}>
         <Text style={styles.mainTitle}>All Apps</Text>
 
         {isGridView ? (

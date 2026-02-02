@@ -44,7 +44,7 @@ export default function ProfileScreen() {
 
   return (
     <SafeAreaView style={styles.profileContainer}>
-      <ScrollView showsVerticalScrollIndicator={false}>
+      <ScrollView>
         <View
           style={{
             paddingHorizontal: 10,
