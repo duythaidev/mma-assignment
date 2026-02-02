@@ -1,6 +1,6 @@
 {
-  "name": "bonusassignment",
   "license": "0BSD",
+  "name": "bonusassignment",
   "main": "index.js",
   "scripts": {
     "start": "expo start",

@@ -126,6 +126,7 @@ const styles = StyleSheet.create({
   headerImage: {
     position: 'relative',
     marginTop: 30,
+    height: 100,
     borderRadius: 10,
     width: '100%',
   },
